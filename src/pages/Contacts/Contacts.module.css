@@ -1,0 +1,9 @@
+.contacts {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.contacts > h1,
+h2 {
+  text-align: center;
+}

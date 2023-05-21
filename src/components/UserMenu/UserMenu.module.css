@@ -1,0 +1,16 @@
+.userMenu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-decoration: none;
+  color: #2a363b;
+}
+
+.userName {
+  margin-right: 20px;
+}
+
+.logOut {
+  font-weight: 700;
+  border: none;
+}
